@@ -11,7 +11,7 @@ Dowload video from YouTube
 
 
 
-## 🙇 Auteur
+## 🙇 Author
 #### Shaggy_404
 - Github: [Shaggy404](https://github.com/Shaggy404)    
         
