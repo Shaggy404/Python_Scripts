@@ -20,11 +20,11 @@ Dowload video from YouTube
 ```
 /*
  * ----------------------------------------------------------------------------
- * "LICENCE BEERWARE" (Révision 42):
- * <shaggy_404@protonmail.ch> a créé ce fichier. Tant que vous conservez cet avertissement,
- * vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
- * que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en
- * retour. Shaggy_404
+ * "LICENCE BEERWARE" (Revision 42):
+ * <shaggy_404@protonmail.ch> has created this file. As long as you keep this warning,
+ * you can do whatever you want with this thing. If we ever meet and
+ * you think this stuff is worth your while, you can buy me a beer in
+ * back. Shaggy_404
  * ----------------------------------------------------------------------------
  */
  ```
