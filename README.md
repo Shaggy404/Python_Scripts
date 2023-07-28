@@ -5,7 +5,7 @@ collection of python scripts for learning
 image download script for a user account.
 the script checks the image hash to avoid duplicates.
 ### [2 - Delete duplicate files](https://github.com/Shaggy404/Python_Scripts/blob/main/duplicate.py)
-Delete files with scan hash
+Delete files with scan hash from a directory
 ### [3 - Youtube video downloader](https://github.com/Shaggy404/Python_Scripts/blob/main/reddit_downloader.py)
 Dowload video from YouTube
 
